@@ -19,7 +19,7 @@ printf("\n__________________________________________________");
 printf("\n\nx1 = %.4lf",y1);
 printf("\n\nx2 = %.4lf",y2);
 printf("\n\nx3 = %.4lf",y3);
-printf("\n\nx4 = %.4lf",y4);
+printf("\n\nx4 = %.4lf",fabs(y4));
 i = 1;
 }
 else{
